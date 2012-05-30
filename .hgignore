@@ -1,0 +1,17 @@
+syntax: glob
+*.pyc
+*.bak
+*~
+*.e*
+*.rope*
+*.dir*
+*.pdf
+*.kpf
+*.svg
+build/*
+dist/*
+tests/*
+docs/_build/*
+MANIFEST
+
+
